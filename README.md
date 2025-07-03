@@ -1,5 +1,3 @@
-# README.md
-
 # Car Speed Estimation & Counting Using YOLOv8
 
 This project implements a real-time vehicle detection, tracking, and speed estimation system using the YOLOv8 object detection model. It allows you to upload a video or process a recorded file and get a live analysis of vehicle movement, speed (in km/h), and directional flow (up or down). Built with Python, OpenCV, and Streamlit.
